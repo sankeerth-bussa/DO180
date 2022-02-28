@@ -1,5 +1,5 @@
 <?php
 
-print "Welcome to CRC"
+print "Welcome to CRC 2"
 
 ?>
